@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. Yanan Liu will be joining the School of Engineering, University of Newcastle, Australia as a Lecturer in March 2024!
+I will be joining the School of Engineering, University of Newcastle, Australia as a Lecturer in March 2024!
