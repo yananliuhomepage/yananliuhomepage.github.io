@@ -24,4 +24,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+Hey, thanks for stopping by! 👋
+I'm a Research Fellow in [Centre for Quantum Dynamics](https://www.griffith.edu.au/centre-quantum-dynamics) in Griffith University.
 Yanan Liu obtained her PhD in University of New South Wales (UNSW) at Canberra in 2021. She was a postdoc researcher at UNSW Canberra from late 2020 to early 2021. She then moved to Quantum Machines Unit in Okinawa Institute of Science and Technology (OIST) Japan, where she worked as a postdoc scholar from 2021 to 2022. She is now a Research Fellow in Centre for Quantum Dynamics in Griffith University. Her research interests include the quantum feedback control and quantum noise mitigation.
