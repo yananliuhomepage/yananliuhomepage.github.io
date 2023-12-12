@@ -1,6 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"TAC":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Automatica":
+  url: https://www.sciencedirect.com/journal/automatica
+
+"TCYB":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036
+
+"PRA":
+  url: https://journals.aps.org/pra/
+
+"NJP":
+  url: https://iopscience.iop.org/journal/1367-2630
+  
