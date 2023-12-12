@@ -6,8 +6,20 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 1
 ---
+## Journal Papers
+<!-- _pages/publications.md -->
+<div class="publications">
+{% bibliography -f journalpapers %}
+</div>
+<hr>
+
+## Conference Papers
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography -f confpapers %}
 </div>
+
+
+
+
