@@ -25,5 +25,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hey, thanks for stopping by! 👋
-I'm a Research Fellow in [Centre for Quantum Dynamics](https://www.griffith.edu.au/centre-quantum-dynamics) in Griffith University.
-Yanan Liu obtained her PhD in University of New South Wales (UNSW) at Canberra in 2021. She was a postdoc researcher at UNSW Canberra from late 2020 to early 2021. She then moved to Quantum Machines Unit in Okinawa Institute of Science and Technology (OIST) Japan, where she worked as a postdoc scholar from 2021 to 2022. She is now a Research Fellow in Centre for Quantum Dynamics in Griffith University. Her research interests include the quantum feedback control and quantum noise mitigation.
+
+I'm a Research Fellow in [Centre for Quantum Dynamics](https://www.griffith.edu.au/centre-quantum-dynamics) in [Griffith University](https://www.griffith.edu.au).
+
+I completed my PhD in Electrical Engineering at [University of New South Wales Canberra (UNSW Canberra)](https://www.unsw.edu.au/canberra) in 2021, co-advised by [Daoyi Dong](https://researchers.anu.edu.au/researchers/dong-dx), [Hidehiro Yonezawa(https://www.riken.jp/en/research/labs/rqc/opt_qtm_ctrl_res/index.html#member) and [Ian R. Petersen](https://cecc.anu.edu.au/people/ian-petersen). I was a postdoc researcher at [UNSW Canberra](https://www.unsw.edu.au/canberra) from late 2020 to early 2021. I then moved to [Quantum Machines Unit](https://groups.oist.jp/qmech) in [Okinawa Institute of Science and Technology (OIST)](https://www.oist.jp/) Japan, where I worked as a postdoc scholar from 2021 to 2022. 
+
+My research interests include the quantum feedback control and quantum noise mitigation.
