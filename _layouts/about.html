@@ -9,10 +9,10 @@ layout: default
             {% if site.title == "blank" -%}
               <span class="font-weight-bold">{{ site.first_name }}</span> 
               {{ site.middle_name }} 
-              {{ site.last_name }} 
+              {{ site.last_name }}</span> 
               {%- if site.chinese_first_name and site.chinese_last_name -%} 
                 ({{ site.chinese_last_name }}
-                <span style="font-weight: 400">{{ site.chinese_first_name }}</span>)
+                <span style="font-weight: 350">{{ site.chinese_first_name }}</span>)
                 {%- endif -%}
             {%- else -%}
               {{ site.title }}
