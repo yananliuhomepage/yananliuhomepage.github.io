@@ -1,9 +1,11 @@
 "TAC":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9
+  color: "#00369f"
 
 "Automatica":
   url: https://www.sciencedirect.com/journal/automatica
-
+  color: "#EE0000"
+  
 "TCYB":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036
 
