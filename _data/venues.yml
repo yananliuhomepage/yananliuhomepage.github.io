@@ -1,10 +1,14 @@
 "TAC":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9
-  color: "#00369f"
+  color: "#FF0000"
+
+"IEEE TAC":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9
+  color: "#FF0000"
 
 "Automatica":
   url: https://www.sciencedirect.com/journal/automatica
-  color: "#FF0000"
+  color: "#00369f"
   
 "TCYB":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036
@@ -12,17 +16,22 @@
   
 "PRA":
   url: https://journals.aps.org/pra/
-  color: "#6959CD"
+  color: "#836FFF"
   
 "NJP":
   url: https://iopscience.iop.org/journal/1367-2630
-  color: "#F4A460"
+  color: "#00CD66"
+
+"J.Frank.Inst.":
+  url: https://www.sciencedirect.com/journal/journal-of-the-franklin-institute
+  color: "#EED2EE"
+  
+"L-CSS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782633
+  color: "#EE5C42"
   
 "ACC":
   url: https://ieeexplore.ieee.org/xpl/conhome/1000030/all-proceedings
-
-"L-CSS":
-  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782633
 
 "IFAC":
   url: https://www.sciencedirect.com/journal/ifac-papersonline/issues
