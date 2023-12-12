@@ -4,17 +4,20 @@
 
 "Automatica":
   url: https://www.sciencedirect.com/journal/automatica
-  color: "#EE0000"
+  color: "#FF0000"
   
 "TCYB":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036
-
+  color: "#FF8247"
+  
 "PRA":
   url: https://journals.aps.org/pra/
-
+  color: "#6959CD"
+  
 "NJP":
   url: https://iopscience.iop.org/journal/1367-2630
-
+  color: "#F4A460"
+  
 "ACC":
   url: https://ieeexplore.ieee.org/xpl/conhome/1000030/all-proceedings
 
