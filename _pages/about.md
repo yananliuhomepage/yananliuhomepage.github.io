@@ -5,8 +5,7 @@ permalink: /
 
 subtitle: >
   <h6 class="m-0 mb-2" style="font-size: 1em;"><a class="page-description" target="_blank">Research Fellow</a></h6>
-  <h6 class="m-0 mb-2" style="font-size: 0.83em;"><a href="https://www.griffith.edu.au/centre-quantum-dynamics" class="page-description" target="_blank">Centre for Quantum Dynamics</a></h6>
-  <h6 class="m-0 mb-2" style="font-size: 0.83em;"><a href="https://www.griffith.edu.au" class="page-description" target="_blank">Griffith University</a></h6>
+  <h6 class="m-0 mb-2" style="font-size: 0.83em;"><a href="https://www.griffith.edu.au/centre-quantum-dynamics" class="page-description" target="_blank">Centre for Quantum Dynamics, Griffith University</a></h6>
   <h6 class="m-0 mb-2" style="font-size: 0.83em;"><a href="mailto:yaananliu@gmail.edu" class="page-description" target="_blank">E-Mail: yaananliu@gmail.com</a></h6>
 
 profile:
