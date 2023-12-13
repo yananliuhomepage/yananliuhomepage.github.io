@@ -26,6 +26,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hey, thanks for stopping by! 👋
 
+I will be joining the [School of Engineering](https://www.newcastle.edu.au/school/engineering), [University of Newcastle](https://www.newcastle.edu.au/), Australia as a Lecturer in March 2024.
+
 I'm a Research Fellow in [Centre for Quantum Dynamics](https://www.griffith.edu.au/centre-quantum-dynamics) in [Griffith University](https://www.griffith.edu.au).
 
 I completed my PhD in Electrical Engineering at [University of New South Wales Canberra](https://www.unsw.edu.au/canberra) (UNSW Canberra) in 2021, co-advised by [Daoyi Dong](https://researchers.anu.edu.au/researchers/dong-dx), [Hidehiro Yonezawa](https://www.riken.jp/en/research/labs/rqc/opt_qtm_ctrl_res/index.html#member) and [Ian R. Petersen](https://cecc.anu.edu.au/people/ian-petersen). I was a postdoc researcher at [UNSW Canberra](https://www.unsw.edu.au/canberra) from late 2020 to early 2021. I then moved to [Quantum Machines Unit](https://groups.oist.jp/qmech) in [Okinawa Institute of Science and Technology](https://www.oist.jp/) (OIST) Japan, where I worked as a postdoc scholar from 2021 to 2022. 
