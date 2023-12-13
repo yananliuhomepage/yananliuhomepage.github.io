@@ -25,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hey, thanks for stopping by! 👋
 
-I will be joining the [School of Engineering](https://www.newcastle.edu.au/school/engineering), [University of Newcastle](https://www.newcastle.edu.au/), Australia as a Lecturer in March 2024.
+I will be joining the [School of Engineering](https://www.newcastle.edu.au/school/engineering), [University of Newcastle](https://www.newcastle.edu.au/), Australia as a Lecturer (Assistant Professor in North America) in March 2024.
 
 I'm a Research Fellow in [Centre for Quantum Dynamics](https://www.griffith.edu.au/centre-quantum-dynamics) in [Griffith University](https://www.griffith.edu.au).
 
