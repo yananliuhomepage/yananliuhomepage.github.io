@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Winner! D Grade Women's doubles, Brisbane Championships 2023 (Run by the Brisbane Badminton Association)
+Winner! D Grade Women's doubles, Brisbane Championships 2023 (Run by the Brisbane Badminton Association).
