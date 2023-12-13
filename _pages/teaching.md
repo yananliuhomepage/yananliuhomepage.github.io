@@ -7,6 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Lab demonstrator for ”Power and Machines” at UNSW Canberra, 2018-2019.
 
-Organize your courses by years, topics, or universities, however you like!
+Mentor of a master student (Mingcheng Zhao) in the [UNSW Career Discovery Mentoring Program](https://www.unsw.edu.au/employability/discover/unsw-career-discovery-mentoring-program), 2023.
