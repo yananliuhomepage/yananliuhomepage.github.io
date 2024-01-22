@@ -13,8 +13,7 @@ profiles:
     image: Bell_pic.jpg
     content: about_Bell.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Our Home</p>
-      <p>Australia</p>
+    # more_info: >
+      # <p>Our Home</p>
   
 ---
