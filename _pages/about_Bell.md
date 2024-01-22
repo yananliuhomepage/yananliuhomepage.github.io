@@ -1,0 +1,3 @@
+Meet Bell, an enchanting Ragdoll cat born on August 25, 2022, in Canberra. Weighing in at 4.9 kilograms, Bell is not just a feline beauty but also an affectionate companion. She has a special talent for capturing flies and spiders around the house, showcasing her innate hunting instincts. Bell's favorite daily activity is sprinting around the backyard, enjoying the freedom and thrill of the outdoors.
+
+This lovely Ragdoll has a penchant for milk and delights in indulging herself with freeze-dried treats and canned food. Known for her friendly demeanor, Bell quickly forms close bonds with those around her. With her playful antics and endearing personality, Bell has become an integral part of our home, bringing joy and warmth to our lives.
