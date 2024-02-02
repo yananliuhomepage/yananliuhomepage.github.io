@@ -10,7 +10,7 @@ subtitle: >
 
 profile:
   align: right
-  image: bell_1.jpeg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>N34 0.17</p>
