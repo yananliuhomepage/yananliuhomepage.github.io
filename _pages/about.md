@@ -4,8 +4,8 @@ title: About
 permalink: /
 
 subtitle: >
-  <h6 class="m-0 mb-2" style="font-size: 1em;"><a class="page-description" target="_blank">Research Fellow</a></h6>
-  <h6 class="m-0 mb-2" style="font-size: 0.83em;"><a href="https://www.griffith.edu.au/centre-quantum-dynamics" class="page-description" target="_blank">Centre for Quantum Dynamics, Griffith University</a></h6>
+  <h6 class="m-0 mb-2" style="font-size: 1em;"><a class="page-description" target="_blank">Lecturer</a></h6>
+  <h6 class="m-0 mb-2" style="font-size: 0.83em;"><a href="https://www.newcastle.edu.au/school/engineering" class="page-description" target="_blank">School of Engineering, University of Newcastle</a></h6>
   <h6 class="m-0 mb-2" style="font-size: 0.83em;"><a href="mailto:yaananliu@gmail.edu" class="page-description" target="_blank">E-Mail: yaananliu@gmail.com</a></h6>
 
 profile:
