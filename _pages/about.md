@@ -15,7 +15,7 @@ profile:
   more_info: >
     <p>ES-338</p>
     <p>Engineering Science, University of Newcastle</p>
-    <p>Callaghan, NSW, Australia</p>
+    <p>Callaghan, NSW 2308 Australia</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
