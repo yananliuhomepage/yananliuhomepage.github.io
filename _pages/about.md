@@ -13,9 +13,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>N34 0.17</p>
-    <p>Griffith University, Nathan Campus</p>
-    <p>Nathan, Brisbane, Australia</p>
+    <p>ES-338</p>
+    <p>Engineering Science, University of Newcastle</p>
+    <p>Callaghan, NSW, Australia</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
