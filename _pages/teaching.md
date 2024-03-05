@@ -9,5 +9,5 @@ nav_order: 5
 
 * Mentor of a master student (Mingcheng Zhao) in the [UNSW Career Discovery Mentoring Program](https://www.unsw.edu.au/employability/discover/unsw-career-discovery-mentoring-program), 2023.
 
-* Lab demonstrator for ”Power and Machines” at UNSW Canberra, 2018-2019.
+* Lab demonstrator for ''Power and Machines'' at UNSW Canberra, 2018-2019.
 
