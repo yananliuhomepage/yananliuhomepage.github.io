@@ -25,10 +25,10 @@ social: true  # includes social icons at the bottom of the page
 
 Hey, thanks for stopping by! 👋
 
-I will be joining the [School of Engineering](https://www.newcastle.edu.au/school/engineering), [University of Newcastle](https://www.newcastle.edu.au/), Australia as a Lecturer (Assistant Professor in North America) in March 2024.
+I am a Lecturer (Assistant Professor in North America) at the [School of Engineering, University of Newcastle](https://www.newcastle.edu.au/school/engineering), Australia. 
 
-I'm a Research Fellow in [Centre for Quantum Dynamics](https://www.griffith.edu.au/centre-quantum-dynamics) in [Griffith University](https://www.griffith.edu.au).
+Prior to joining the University of Newcastle, from 06/2022 to 02/2024, I served as a Research Fellow in [Centre for Quantum Dynamics, Griffith University](https://www.griffith.edu.au/centre-quantum-dynamics). I held a Postdoctoral Scholar at [Quantum Machines Unit, Okinawa Institute of Science and Technology](https://groups.oist.jp/qmech) from 03/2021 to 05/2022. From 12/2020 to 02/2021, I was a Research Associate at [University of New South Wales, Canberra](https://www.unsw.edu.au/canberra) (UNSW Canberra).
 
-I completed my PhD in Electrical Engineering at [University of New South Wales Canberra](https://www.unsw.edu.au/canberra) (UNSW Canberra) in 2021, co-advised by [Daoyi Dong](https://researchers.anu.edu.au/researchers/dong-dx), [Hidehiro Yonezawa](https://www.riken.jp/en/research/labs/rqc/opt_qtm_ctrl_res/index.html#member) and [Ian R. Petersen](https://cecc.anu.edu.au/people/ian-petersen). I was a postdoc researcher at [UNSW Canberra](https://www.unsw.edu.au/canberra) from late 2020 to early 2021. I then moved to [Quantum Machines Unit](https://groups.oist.jp/qmech) in [Okinawa Institute of Science and Technology](https://www.oist.jp/) (OIST) Japan, where I worked as a postdoc scholar from 2021 to 2022. 
+I completed my Ph.D. in Electronic Engineering at [UNSW Canberra](https://www.unsw.edu.au/canberra) in 2021, under the supervision of [Daoyi Dong](https://researchers.anu.edu.au/researchers/dong-dx), [Hidehiro Yonezawa](https://www.riken.jp/en/research/labs/rqc/opt_qtm_ctrl_res/index.html#member) and [Ian R. Petersen](https://cecc.anu.edu.au/people/ian-petersen).
 
-My research interests include the quantum feedback control and quantum noise mitigation.
+My research interests include the quantum feedback control, quantum optimal control and quantum noise mitigation.
