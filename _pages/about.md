@@ -6,14 +6,14 @@ permalink: /
 subtitle: >
   <h6 class="m-0 mb-2" style="font-size: 1em;"><a class="page-description" target="_blank">Lecturer</a></h6>
   <h6 class="m-0 mb-2" style="font-size: 0.83em;"><a href="https://www.newcastle.edu.au/school/engineering" class="page-description" target="_blank">School of Engineering, University of Newcastle</a></h6>
-  <h6 class="m-0 mb-2" style="font-size: 0.83em;"><a href="mailto:yaananliu@gmail.edu" class="page-description" target="_blank">E-Mail: yaananliu@gmail.com</a></h6>
+  <h6 class="m-0 mb-2" style="font-size: 0.83em;"><a href="mailto:yaananliu@gmail.edu" class="page-description" target="_blank">E-Mail: 	yanan.liu@newcastle.edu.au</a></h6>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ES-338</p>
+    <p>EAG25</p>
     <p>School of Engineering, University of Newcastle</p>
     <p>University Drive, Callaghan, NSW 2308 Australia</p>
 
