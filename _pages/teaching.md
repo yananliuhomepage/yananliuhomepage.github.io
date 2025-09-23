@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-* Mentor of a master student (Mingcheng Zhao) in the [UNSW Career Discovery Mentoring Program](https://www.unsw.edu.au/employability/discover/unsw-career-discovery-mentoring-program), 2023.
-
+* ENGG4440/6441 Nonlinear Control and Estimation.
+* ELEC1710 Digital and Computer Electronics.
 * Lab demonstrator for ''Power and Machines'' at UNSW Canberra, 2018-2019.
 
