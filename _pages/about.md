@@ -25,7 +25,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hey, thanks for stopping by! 👋
 
-I am a Lecturer at the [School of Engineering, University of Newcastle](https://www.newcastle.edu.au/school/engineering), Australia, and an Alexander von Humboldt Research Fellow at the [University of Duisburg-Essen](https://www.uni-due.de/aks/index_en.php), Germany.
+I am a Lecturer in the [School of Engineering, University of Newcastle](https://www.newcastle.edu.au/school/engineering), Australia, where I joined in March 2024. 
+
+I am a recipient of a Humboldt Research Fellowship from the Alexander von Humboldt Foundation of Germany.
 
 Prior to joining the University of Newcastle, I served as a Research Fellow at [Griffith University](https://www.griffith.edu.au/centre-quantum-dynamics), working with [Prof. Howard Wiseman](https://experts.griffith.edu.au/18725-howard-wiseman), from 06/2022 to 02/2024. I held a Postdoctoral Scholar supervised by [Prof. Jason Twamley](https://www.oist.jp/research/research-units/qmech/jason-twamley) at [Okinawa Institute of Science and Technology](https://groups.oist.jp/qmech) from 03/2021 to 05/2022. From 12/2020 to 02/2021, I was a Research Associate advised by [Prof. Daoyi Dong](https://profiles.uts.edu.au/Daoyi.Dong) at [University of New South Wales, Canberra](https://www.unsw.edu.au/canberra) (UNSW Canberra).
 
